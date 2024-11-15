@@ -8,11 +8,21 @@
 
 #left{
     width: 240px;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
     height: 335px;
     border: 2px solid #000;
 }
 
+#klok{
+    width: 130px;
+    height: 130px;
+    background-color: #fff;
+    border: 2px solid #000;
+    margin-left: 50px;
+    margin-top: 70px;
+    border-radius: 50%;
+
+}
 #middle {
     width: 568px;
     height: 339px;
@@ -27,4 +37,31 @@
     height: 335px;
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
+}
+
+#spoor{ 
+    height: 100px;
+    width: 100px;
+    background-color: #FFF;
+    border: 2px solod #000;
+    margin-top: -60px;
+    margin-left: 15px;
+}
+
+#scherm{
+    height: 265px;
+    width: 500px;
+    background-color: #fff;
+margin-bottom: 300px;
+}
+
+#meerkerk{
+    height: 200px;
+    width: 300px;
+    
+}
+
+#viaUtrechtCentraal{
+    height: -100px;
+    width: 300px;
 }
